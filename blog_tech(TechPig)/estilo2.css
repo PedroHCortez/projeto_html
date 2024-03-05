@@ -1,0 +1,86 @@
+body{
+    background-image: url(imagens/colinabackground.jpg);
+}
+
+/* icon pig */
+* #iconpig{ 
+    width: 50px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 7px;
+    float: left;
+ }
+
+/* elementos do topo da página */
+#topo{
+    background-color: rgb(109, 177, 253);
+    border: 2px black solid;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 50px;
+}
+
+/* titulo do site BlogTech */
+#titulo{
+    float: left;
+    margin-left: 45%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+/* icon de perfil */
+#perfil{ 
+    width: 30px; 
+    height: 30px; 
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+/* elementos do menu de sobre e posts */
+#menu{
+    background-color: rgba(255, 255, 255, 0.925);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    border: 2px black solid;
+    border-radius: 15px;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#posts{
+    float: left;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+
+#about{
+    float: right;
+    margin-right: 8px;
+    margin-top: 2px;
+}
+
+/* elementos da postagem */
+#lista-postagem{
+    float: left;
+    border: 5px black solid;
+    border-radius: 20px;
+    width: 200px;
+    height: auto;
+}
+
+.textposts{
+    margin: 5px 10px 2px 20px;
+}
+
+#conteudo{
+    background-color: rgba(255, 255, 255, 0.925);
+    border: 2px black solid;
+    margin-left: 240px;
+    padding-left: 5px;
+}
+
+#hackermanimg{
+    margin-left: 32%;
+}
