@@ -3,9 +3,10 @@ body{
 }
 
 * #perfil{
+    float: left;
     border-radius: 25px;
-    margin-left: 200px;
-    margin-top: 40px;
+    margin-left: 400px;
+    margin-top: 25px;
     width: 150px;
     height: 200px;
 }
@@ -13,22 +14,26 @@ body{
 #Topo{
     border: 2px black solid;
     background-color: rgba(39, 114, 255, 0.788);
-    height: 280px;
+    height: 250px;
     margin-top: 60px;
     margin-right: 90px;
     margin-left: 90px;
 }
 
+#InformaçõesPessoais{
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
 #Nome{
-    margin-left: 180px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #email{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    margin-left: 70px;
+    margin-left: 42px;
 }
 
 #SobreMim{
