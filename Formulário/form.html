@@ -3,9 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estiloform.css">
     <title>FORMULÁRIO</title>
 </head>
 <body>
-    
+    <form class="formulario-exemplo">
+        <label>Email ou Telefone</label>
+        <br>
+        <input type="text" id="entrada-dados" required>
+        <br>
+        <label>Senha</label>
+        <br>
+        <input type="password" id="senha" required>
+        <br>
+        <br>
+        <!-- Se for direcionar para outra função use tag button -->
+        <button>Voltar</button>
+        <!-- Se dados vão para algum lugar, sempre usar input button -->
+        <input type="submit" id="botão" value="Cadastrar">
+    </form>
 </body>
 </html>
