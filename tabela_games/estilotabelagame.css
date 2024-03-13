@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(61, 61, 61);
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: rgb(136, 122, 122);  
+    color: white;
+}
+
+td,th{
+    border: 1px black solid;
+    padding: 15px 15px 15px 15px;
+}
+
+/* fontes personalizadas: */
+
+#cyberpunk{
+    font-size: x large;
+    font-family: Cyberpunk;
+    color: rgb(0, 162, 255);
+    background-color: rgb(241, 238, 15);
+}
+
+@font-face { 
+    font-family: Cyberpunk;
+    src: url(fonts/cyberpunk/Cyberpunk.ttf);
+}
