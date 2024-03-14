@@ -37,9 +37,11 @@ body{
 }
 
 #SobreMim{
-    border: 2px black solid;
+    margin-left: 800px;
+    margin-right: 800px;
 }
 
 #Sobremimtxt{
-    margin: 5px 5px 5px 5px;
+    margin: 5px 50px 5px 50px;
+    font-size: 90px;
 }
