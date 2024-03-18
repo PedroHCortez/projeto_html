@@ -25,8 +25,9 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#informations{
-    margin-left: 200px;
+#inform{
+    float: left;
+    margin-left: 205px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
@@ -40,6 +41,45 @@ body{
 }
 
 #conteudosobremim{
+    font-size: 30px;
+    margin-left: 250px;
+}
+
+#Objetivo{
+    margin-left: 800px;
+}
+
+#Objetivotxt{
+    font-size: 60px;
+}
+
+#conteudoobjetivo{
+    font-size: 30px;
+    margin-left: 250px;
+}
+
+#FormaçãoAcadêmica{
+    margin-left: 800px;
+}
+
+#Formaçãotxt{
+    font-size: 60px;
+}
+
+#conteudoformação{
+    font-size: 30px;
+    margin-left: 250px;
+}
+
+#CursosComplementares{
+    margin-left: 800px;
+}
+
+#Cursostxt{
+    font-size: 60px;
+}
+
+#conteudocursos{
     font-size: 30px;
     margin-left: 250px;
 }
