@@ -1,47 +1,45 @@
 body{
-    background-image: url(img/brancoback.jpg);
+    background-image: url(img/walp.jpg);
 }
 
-* #perfil{
-    float: left;
-    border-radius: 25px;
-    margin-left: 400px;
-    margin-top: 25px;
-    width: 150px;
-    height: 200px;
-}
-
-#Topo{
-    border: 2px black solid;
+* #Topo{
     background-color: rgba(39, 114, 255, 0.788);
-    height: 250px;
+    height: 230px;
     margin-top: 60px;
     margin-right: 90px;
     margin-left: 90px;
 }
 
-#InformaçõesPessoais{
-    margin-top: 100px;
-    margin-left: 550px;
+#perfil{
+    float: left;
+    border-radius: 25px;
+    margin-left: 400px;
+    margin-top: 18px;
+    width: 150px;
+    height: 200px;
 }
 
 #Nome{
+    margin-left: 180px;
     font-size: 60px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#email{
+#informations{
+    margin-left: 200px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    margin-left: 42px;
 }
 
 #SobreMim{
     margin-left: 800px;
-    margin-right: 800px;
 }
 
 #Sobremimtxt{
-    margin: 5px 50px 5px 50px;
-    font-size: 90px;
+    font-size: 60px;
+}
+
+#conteudosobremim{
+    font-size: 30px;
+    margin-left: 250px;
 }
