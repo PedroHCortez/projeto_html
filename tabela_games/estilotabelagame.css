@@ -32,6 +32,64 @@ td,th{
     background-color: rgb(0, 162, 255);
 }
 
+#gris{
+    font-size: x-large;
+    font-family: Montserrat;
+    color: rgb(92, 92, 92);
+    background-color: rgb(246, 233, 169);
+}
+
+#metalgearrising{
+    font-size: x-large;
+    font-family: TechnoHideo;
+    color: rgb(0, 108, 176);
+    background-color: rgb(190, 193, 198);
+}
+
+#batman{
+    font-size: x-large;
+    font-family: Arkham;
+    color: rgb(119, 14, 14);
+    background-color: white;
+}
+
+#statedecay{
+    font-size: x-large;
+    font-family: Chunkfive;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 95, 37);
+}
+
+#cultlamb{
+    font-size: 70px;
+    font-family: Cult of the toucan;
+    color: white;
+    background-color: rgb(189, 0, 0);
+}
+
+#hollowknight{
+    font-size: 24px;
+    font-family: TrajanPro-Bold;
+    color: white;
+    background-color: rgb(10, 62, 174);
+}
+
+#undertale{
+    font-size: 19px;
+    font-family: MonsterFriendFore;
+    color: white;
+    background-color: rgb(31, 31, 31);
+}
+
+#hattime{
+    font-size: x-large;
+    font-family: Curse\ Casual;
+    color: rgb(248, 202, 117);
+    background-color: rgb(142, 62, 142);
+}
+
+
+
 @font-face{ 
     font-family: Cyberpunk;
     src: url(fonts/cyberpunk/Cyberpunk.ttf);
@@ -40,4 +98,35 @@ td,th{
     font-family: Broadway;
     src: url(fonts/Broadway\ Regular/);
 }
-
+@font-face {
+    font-family: Montserrat;
+    src: url(fonts/gris/Montserrat-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: TechnoHideo;
+    src: url(fonts/metalgear/TechnoHideo.ttf);
+}
+@font-face {
+    font-family: Arkham;
+    src: url(fonts/arkham/Arkham_bold.TTF);
+}
+@font-face {
+    font-family: Chunkfive;
+    src: url(fonts/statedecay2/chunk-five-print.otf);
+}
+@font-face {
+    font-family: Cult of the toucan;
+    src: url(fonts/cultlamb/Cult\ of\ the\ toucan.otf);
+}
+@font-face {
+    font-family: TrajanPro-Bold;
+    src: url(fonts/HollowKnight/TrajanPro-Bold.otf);
+}
+@font-face {
+    font-family: MonsterFriendFore;
+    src: url(fonts/undertale/MonsterFriendFore.otf);
+}
+@font-face {
+    font-family: Curse\ Casual;
+    src: url(fonts/hattime/Curse\ Casual.ttf);
+}
