@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/walp.jpg);
+    background-color: rgb(219, 219, 219);
 }
 
 * #Topo{
@@ -59,7 +59,7 @@ body{
 }
 
 #FormaçãoAcadêmica{
-    margin-left: 800px;
+    margin-left: 670px;
 }
 
 #Formaçãotxt{
@@ -72,7 +72,7 @@ body{
 }
 
 #CursosComplementares{
-    margin-left: 800px;
+    margin-left: 650px;
 }
 
 #Cursostxt{
